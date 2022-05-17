@@ -2,7 +2,7 @@
 
 This repository was created for benchmarking bundler's performance on a large Rails app.
 
-Benchmark it with hyperfine:
+Benchmark it with [hyperfine](https://github.com/sharkdp/hyperfine#installation):
 
 ```shell
 hyperfine "ruby run.rb"
